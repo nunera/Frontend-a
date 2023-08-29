@@ -34,7 +34,7 @@ lanarky = "^0.7.12"
 weaviate-client = "^3.22.1"
 tiktoken = "^0.4.0"
 numpy = "^1.25.1"
-grpcio = "^1.56.2"
+grpcio = "^1.57.0"
 pinecone-client = { version = "^2.2.2", extras = ["grpc"] }
 networkx = "^3.1"
 pusher = "^3.3.2"
